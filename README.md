@@ -18,4 +18,4 @@ The **Premium ProFix Edition** includes advanced production-grade enhancements:
 * **Full Schema.org JSON-LD Structured Data:** Pre-configured rich data schema so search engines instantly index your precise service areas and coordinates.
 * **Full Documentation:** Extended setup templates and standard deployment guidelines.
 
-👉 **[Download the Premium Edition on Gumroad Here](PASTE_YOUR_GUMROAD_LINK_HERE)**
+👉 **[Download the Premium Edition on Gumroad Here](https://magaadle.gumroad.com/l/wosdq)**
